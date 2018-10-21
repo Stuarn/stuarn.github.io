@@ -79,5 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/Stuarn/stuarn.github.io.git
+  repository: git@github.com:Stuarn/stuarn.github.io.git 
   branch: master
+##https://github.com/Stuarn/stuarn.github.io.git
